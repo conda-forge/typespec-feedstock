@@ -1,5 +1,5 @@
 context:
-  version: "0.67.1"
+  version: "0.67.2"
 
 package:
   name: typespec
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@typespec/compiler/-/compiler-${{ version }}.tgz
-  sha256: b962f9cbf5c613c7e09bde809a0017ba5674ce66d731334fd8d39af06fb022c3
+  sha256: e1d9284ee6a7a74124b4d26b7d08a09c03b2b92fb32f5485983131bbee65ebd4
 
 build:
   number: 0
